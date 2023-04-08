@@ -1,7 +1,6 @@
 pandas
 numpy
-seaborn
-matplotlib
 sklearn
 flask
-mongodb
+seaborn
+matplotlib
