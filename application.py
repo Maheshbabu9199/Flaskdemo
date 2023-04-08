@@ -4,7 +4,7 @@ application = Flask(__name__)
 
 @application.route("/")
 def home():
-    return "Home page working"
+    return "Home page working with virtualenv"
 
 @application.route("/indexpage")
 def index():
